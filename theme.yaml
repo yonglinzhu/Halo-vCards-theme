@@ -1,13 +1,13 @@
-id: 0vcards
-name: vCards
+id: 0vcards-evan
+name: vCards-evan
 author:
   name: irils
   website: https://www.rz.sb
 description: A other Halo theme
 logo: /themes/0vcards/source/images/themelogo.png
-website: https://github.com/vCards-Theme/Halo-theme-vCards
-repo: https://github.com/vCards-Theme/Halo-theme-vCards
-version: 1.0.3
-require: 1.4.2
+website: https://github.com/yonglinzhu/Halo-vCards-theme
+repo: https://github.com/yonglinzhu/Halo-vCards-theme
+version: 11.0.0
+require: 1.5.3
 branch: main
 updateStrategy: RELEASE

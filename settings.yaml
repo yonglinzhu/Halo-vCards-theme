@@ -11,7 +11,7 @@ Basic:
       name: author_describe
       label: 博主一言
       type: text
-      default: '愿世界安康，愿你我皆好！'
+      default: '上山打老虎🐅'
       description: "展示在博主昵称下面"
     preloader:
       name: preloader
